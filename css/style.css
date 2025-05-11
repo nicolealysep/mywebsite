@@ -137,3 +137,29 @@ body {
     margin-top: 0.5rem;
   }
   
+  /* --------------------------- */
+/* 👩 About Page Styling       */
+/* --------------------------- */
+.about-wrapper {
+    background-color: #fff6e9;
+    padding: 3rem 2rem;
+    max-width: 800px;
+    margin: 2rem auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+    color: #333;
+  }
+  
+  .about-wrapper h1 {
+    font-size: 2.2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #6c63ff;
+  }
+  
+  .about-wrapper p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+  }
+  
